@@ -1,0 +1,11 @@
+Diego Noel Henriquez Ponce
+HP160046
+Link:https://github.com/DiegoPonce09/examen.git
+observaciones: Por cuestiones de no tener instalado el sql en mi maquina (por el problema que le comente en clase que me habia presentado mi computadora) 
+no pude hacer las migraciones y la creacion de la base de batos, 
+pero estan creadas las tablas con sus respectivos campos y su tipo de datos, 
+igualmente por el mismo motivo no puede se puede creear al crud para cada tabla ya que necesita las migraciones para poder crearlo,
+solamente hice una parte de todo el examen
+
+le adjunto las evidencias de que no se pueden hacer las migraciones y los controllers de los crud 
+
